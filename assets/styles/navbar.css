@@ -5,6 +5,15 @@ nav {
     padding: 20px;
 }
 
+img {
+    height: 30px;
+}
+.topleft {
+    display: block;
+    margin-left: 0.5%;
+    margin-right: auto;
+    width: auto;
+}
 ul {
     list-style-type: none;
     margin: 0;
