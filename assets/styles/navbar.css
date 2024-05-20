@@ -1,12 +1,13 @@
 /* assets/styles/navbar.css */
 nav {
     display: flex;
-    justify-content: flex-end;
-    padding: 20px;
+    align-items: center;
+    padding: 0.8em;
+    text-align: center;
+    vertical-align: center;
 }
-
 img {
-    height: 30px;
+    height: 2.5em;
 }
 .topleft {
     display: block;
@@ -14,21 +15,25 @@ img {
     margin-right: auto;
     width: auto;
 }
+div.container {
+    text-align: right;
+}
 ul {
     list-style-type: none;
+    display: inline-block;
     margin: 0;
     padding: 0;
+    text-align: left;
 }
 
 li {
     display: inline;
-    margin-left: 20px;
+    margin-left: 4em;
 }
 
 a {
     text-decoration: none;
     color: #333;
-    font-weight: bold;
 }
 
 a:hover {
