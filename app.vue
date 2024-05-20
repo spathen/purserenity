@@ -4,8 +4,8 @@
         <Navbar />
         <Hero />
         <About />
+        <Why />
         <Services />
-        <Contact />
         <Footer />
     </div>
 </template>
@@ -15,7 +15,7 @@ import Navbar from "@/components/Navbar.vue";
 import Hero from "@/components/Hero.vue";
 import About from "@/components/About.vue";
 import Services from "@/components/Services.vue";
-import Contact from "@/components/Contact.vue";
+import Why from "@/components/Why.vue";
 import Footer from "@/components/Footer.vue";
 
 export default {
@@ -24,7 +24,7 @@ export default {
         Hero,
         About,
         Services,
-        Contact,
+        Why,
         Footer,
     },
 };

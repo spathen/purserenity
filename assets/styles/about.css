@@ -1,0 +1,30 @@
+/* assets/styles/sections.css */
+section {
+    padding: 8em 5em;
+    text-align: right;
+    padding-left: 50%;
+}
+
+section h2 {
+    font-size: 2.5em;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+section p {
+    font-size: 1.2em;
+    color: #666;
+    line-height: 1.8em;
+    margin-bottom: 30px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 20px;
+    font-size: 1.2em;
+}

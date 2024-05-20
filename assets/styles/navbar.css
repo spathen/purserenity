@@ -8,12 +8,14 @@ nav {
 }
 img {
     height: 2.5em;
+    vertical-align: center;
 }
 .topleft {
     display: block;
     margin-left: 0.5%;
     margin-right: auto;
     width: auto;
+    align-items: center;
 }
 div.container {
     text-align: right;

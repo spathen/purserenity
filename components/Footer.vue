@@ -1,6 +1,6 @@
 <!-- components/Footer.vue -->
 <template>
-    <footer>
+    <footer id="footer">
         <p>&copy; 2024 Rental Management. All rights reserved.</p>
     </footer>
 </template>
