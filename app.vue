@@ -6,7 +6,6 @@
         <About />
         <Services />
         <Why />
-
         <Footer />
     </div>
 </template>
