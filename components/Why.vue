@@ -23,7 +23,7 @@
                 </li>
             </ul>
         </div>
-        <div class="image">
+        <div id="image">
             <img src="@/assets/img/reviews.png" />
         </div>
     </section>

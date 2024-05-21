@@ -3,8 +3,8 @@
     <footer id="footer">
         <h1>Contact Us:</h1>
         <div id="info">
-            <p><strong>Email:</strong> mcgtlk@gmail.com</p>
-            <p><strong>Phone:</strong> (347) 513-9203</p>
+            <p><strong>Email:</strong> support@purserenity.com</p>
+            <p><strong>Phone:</strong> (646) 363-6665</p>
         </div>
     </footer>
 </template>
