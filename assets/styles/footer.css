@@ -1,11 +1,21 @@
 /* assets/styles/footer.css */
 footer {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 150px 0;
+    background-color: #175997;
+    color: white;
+    padding: 2em 10em;
+    padding-bottom: 10em;
+    align-items: center;
 }
 
+footer h1 {
+    font-size: 3.5em;
+    text-align: center;
+}
+
+#info {
+    margin-top: 1em;
+    text-align: center;
+}
 footer p {
-    margin: 0;
+    font-size: 2em;
 }

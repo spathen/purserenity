@@ -1,30 +1,32 @@
 /* assets/styles/sections.css */
-section {
-    padding: 8em 5em;
-    text-align: right;
-    padding-left: 50%;
-}
 
+section {
+    display: flex;
+    padding: 2em 2em;
+    margin-top: 8em;
+    margin-right: 2em;
+    justify-content: space-between;
+    text-align: left;
+    align-items: center;
+    margin-bottom: 1em;
+}
+#image {
+    width: 60%;
+}
+.text {
+    width: 45%;
+    margin-left: 5em;
+}
 section h2 {
-    font-size: 2.5em;
-    color: #333;
+    font-size: 3em;
+    color: black;
     margin-bottom: 30px;
 }
 
 section p {
     font-size: 1.2em;
-    color: #666;
+    color: #555;
+    opacity: 80%;
     line-height: 1.8em;
     margin-bottom: 30px;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-li {
-    margin-bottom: 20px;
-    font-size: 1.2em;
 }

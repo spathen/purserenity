@@ -5,6 +5,7 @@ nav {
     padding: 0.8em;
     text-align: center;
     vertical-align: center;
+    position: static;
 }
 img {
     height: 2.5em;

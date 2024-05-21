@@ -37,7 +37,7 @@ export default {
 
 <style scoped>
 .expandable-section {
-    border: 1px solid #ccc;
+    border: 0px solid #ccc;
     border-radius: 5px;
     margin-bottom: 10px;
     margin-left: 5%;
@@ -69,7 +69,7 @@ export default {
 }
 
 .content {
-    padding: 10px;
+    padding: 0.625em;
     border-top: 1px solid #ccc;
 }
 </style>

@@ -1,7 +1,11 @@
 <!-- components/Footer.vue -->
 <template>
     <footer id="footer">
-        <p>&copy; 2024 Rental Management. All rights reserved.</p>
+        <h1>Contact Us:</h1>
+        <div id="info">
+            <p><strong>Email:</strong> mcgtlk@gmail.com</p>
+            <p><strong>Phone:</strong> (347) 513-9203</p>
+        </div>
     </footer>
 </template>
 <style scoped>
