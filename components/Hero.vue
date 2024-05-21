@@ -1,10 +1,10 @@
 <!-- components/Hero.vue -->
 <template>
     <section id="hero">
-        <pre>
-            <h1>A rental management solution,
-without the hassle</h1>
-            </pre>
+        <h1>
+            A rental management solution,<br />
+            without the hassle
+        </h1>
         <p>
             We take care of your rentals, so you can focus on expanding your
             business

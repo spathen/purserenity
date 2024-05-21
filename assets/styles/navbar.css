@@ -42,3 +42,9 @@ a {
 a:hover {
     color: #666;
 }
+
+@media screen and (max-width: 800px) {
+    div.container {
+        display: none;
+    }
+}

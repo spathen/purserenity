@@ -1,4 +1,7 @@
 /* assets/styles/hero.css */
+body {
+    font-size: 100%;
+}
 #hero {
     background-color: #f4f4f4;
     background-image: url(/assets/img/herobackground.png);
@@ -9,10 +12,9 @@
     background-attachment: fixed;
 }
 
-#hero pre h1 {
-    font-family: "Playfair Display";
+#hero h1 {
     font-weight: 450;
-    font-size: 5em;
+    font-size: 4.6em;
     color: #fff;
     padding-bottom: 0px;
 }
@@ -38,4 +40,11 @@
 .btn:hover {
     background-color: #ffffff;
     color: black;
+}
+
+@media screen and (max-width: 800px) {
+    #hero {
+        background-attachment: scroll;
+        background-size: cover;
+    }
 }

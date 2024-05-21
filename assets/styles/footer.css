@@ -19,3 +19,9 @@ footer h1 {
 footer p {
     font-size: 2em;
 }
+
+@media screen and (max-width: 800px) {
+    footer {
+        padding: 1em 1em;
+    }
+}
