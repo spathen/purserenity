@@ -1,3 +1,9 @@
+html {
+    scroll-behavior: smooth;
+}
+@media (orientation: landscape) {
+    width: 177.77%;
+}
 body {
     font-family: "Playfair Display", serif;
     font-size: 100%;
