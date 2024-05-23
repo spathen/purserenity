@@ -11,4 +11,8 @@ body {
     * {
         font-size-adjust: 0.4;
     }
+    h1 {
+        font-size-adjust: 0.3;
+        line-height: 1em;
+    }
 }
